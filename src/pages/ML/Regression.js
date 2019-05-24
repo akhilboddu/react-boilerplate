@@ -17,7 +17,7 @@ import {
   Degree3
 } from './coreAPI-ml'
 
-const backgroundShape = require('../../../images/shape.svg');
+import { backgroundShape } from '../images'
 
 
 const numeral = require('numeral');
